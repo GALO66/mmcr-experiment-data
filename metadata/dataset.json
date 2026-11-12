@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.1",
+  "title": "MMCR experimental data",
+  "version": "1.1.0",
+  "resource_type": "Dataset",
+  "prepared_on": "2026-11-12",
+  "language": "en",
+  "description": "Selected training, human assembly-task and QR-detection measurements curated against the author-supplied 27-page MMCR manuscript. Source observations are preserved, with explicitly derived accuracy and documented differences between source records, figures and prose.",
+  "license": {
+    "data_and_documentation": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "verification_utility": "MIT"
+  },
+  "attribution": "MMCR experimental data, version 1.1.0; associated research by Qi Wang, Maowei Jiang, Tingtao Yu, Yusong Hu, Zhiyong Dong, Hongfei Ai, Yifan Wang and Peter Búš. Include actual repository/release URL and indicate changes.",
+  "attribution_basis": "Associated article author list; individual dataset contribution roles were not supplied.",
+  "related_publication": {
+    "relationship": "IsSupplementTo",
+    "doi": "10.1016/j.aei.2026.104580",
+    "url": "https://doi.org/10.1016/j.aei.2026.104580",
+    "journal": "Advanced Engineering Informatics",
+    "volume": "74",
+    "article_number": "104580",
+    "year": 2026,
+    "title": "Mixed reality and machine learning-guided cable robot framework (MMCR) for real-time prefabricated construction automation"
+  },
+  "correspondence_reference": {
+    "file_name": "MMCR.pdf",
+    "pages": 27,
+    "version": "author-supplied preprint manuscript, not independently verified publisher PDF",
+    "sha256": "3bac6d2af960e346901b331a3c0e7cca614f2f9b474b9db639dc425aa8c4c6f2"
+  },
+  "format": {
+    "media_type": "text/csv",
+    "encoding": "UTF-8",
+    "delimiter": ",",
+    "newline": "LF",
+    "header": true
+  },
+  "inventory": {
+    "data_tables": 17,
+    "training_series": 12,
+    "training_observations": 3190,
+    "human_performance_records": 40,
+    "human_placement_records": 40,
+    "qr_paired_trials": 120,
+    "qr_range_rows": 16,
+    "note": "These are different observation types; do not sum rows as participants or independent experiments."
+  },
+  "training_metric": {
+    "name": "Cumulative Reward",
+    "evidence": "author_recollection",
+    "tag_verification": "unverified",
+    "paper_context": "Figure 10 uses Average Reward; Figure 12(b) uses Cumulative Reward; raw tag absent from CSV."
+  },
+  "human_placement_selection": {
+    "selected": "tester.xlsx Sheet1!H58:Q61",
+    "excluded": "tester.xlsx Sheet1!C52:E91 and duplicate G52:P55",
+    "basis": "Formula and chart lineage; exact rounded manuscript accuracy ranges; plotted distributions and variance bars",
+    "differing_positions": 33,
+    "total_positions": 40,
+    "accuracy_formula": "(49 - incorrect_placements) / 49"
+  },
+  "qr_environment_mapping": {
+    "block_1": {
+      "environment": "indoor",
+      "basis": "All 8 Figure A3 peak annotations match at 2 decimal places"
+    },
+    "block_2": {
+      "environment": "outdoor",
+      "basis": "Appendix C protocol and Figure A5 distribution/summary correspondence"
+    },
+    "note": "Paired worksheet block headers themselves omit environment labels; source block IDs retained."
+  },
+  "manifest": "metadata/file_manifest.csv",
+  "training_manifest": "metadata/training_manifest.csv",
+  "quality_flags": "metadata/quality_flags.csv",
+  "paper_correspondence": "metadata/paper_correspondence.csv",
+  "checksums": "SHA256SUMS.txt",
+  "dataset_doi": null,
+  "repository_url": "https://github.com/GALO66/mmcr-experiment-data",
+  "publication_date": "2026-11-12",
+  "limitations": [
+    "Main-text means differ from selected records and some appendix values.",
+    "Figure 14 caption swaps accuracy and question-frequency panels.",
+    "QR source size header and some mean/median labels are inconsistent.",
+    "Four QR trial distances exceed the separate range-table maxima and are preserved.",
+    "Participant linkage, training seeds and exact per-file training figure mappings are not verified.",
+    "No full training environment, model weights, robot tension records or trajectories are included."
+  ]
+}
