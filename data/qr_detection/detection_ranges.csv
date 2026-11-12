@@ -1,0 +1,17 @@
+qr_side_length_cm,environment,min_detectable_distance_m,max_detectable_distance_m,min_distance_source_cell,max_distance_source_cell
+2.5,indoor,0.17,0.32,Sheet1!C32,Sheet1!D32
+2.5,outdoor,0.18,0.29,Sheet1!E32,Sheet1!F32
+5.0,indoor,0.18,0.67,Sheet1!C33,Sheet1!D33
+5.0,outdoor,0.2,0.58,Sheet1!E33,Sheet1!F33
+7.5,indoor,0.19,1.0,Sheet1!C34,Sheet1!D34
+7.5,outdoor,0.22,0.82,Sheet1!E34,Sheet1!F34
+10.0,indoor,0.22,1.35,Sheet1!C35,Sheet1!D35
+10.0,outdoor,0.24,1.1,Sheet1!E35,Sheet1!F35
+12.5,indoor,0.24,1.53,Sheet1!C36,Sheet1!D36
+12.5,outdoor,0.26,1.24,Sheet1!E36,Sheet1!F36
+15.0,indoor,0.25,1.92,Sheet1!C37,Sheet1!D37
+15.0,outdoor,0.28,1.58,Sheet1!E37,Sheet1!F37
+17.5,indoor,0.27,2.23,Sheet1!C38,Sheet1!D38
+17.5,outdoor,0.29,1.85,Sheet1!E38,Sheet1!F38
+20.0,indoor,0.29,2.61,Sheet1!C39,Sheet1!D39
+20.0,outdoor,0.34,2.05,Sheet1!E39,Sheet1!F39
