@@ -1,0 +1,41 @@
+condition,record_index,completion_time_min,assistance_requests,completion_time_source_cell,assistance_source_cell
+2D Drawings,1,14.5,6.0,Sheet1!C2,Sheet1!D2
+2D Drawings,2,16.3,7.0,Sheet1!C3,Sheet1!D3
+2D Drawings,3,13.7,5.0,Sheet1!C4,Sheet1!D4
+2D Drawings,4,15.4,8.0,Sheet1!C5,Sheet1!D5
+2D Drawings,5,15.2,6.0,Sheet1!C6,Sheet1!D6
+2D Drawings,6,14.1,6.0,Sheet1!C7,Sheet1!D7
+2D Drawings,7,16.2,9.0,Sheet1!C8,Sheet1!D8
+2D Drawings,8,15.5,7.0,Sheet1!C9,Sheet1!D9
+2D Drawings,9,14.9,6.0,Sheet1!C10,Sheet1!D10
+2D Drawings,10,16.1,8.0,Sheet1!C11,Sheet1!D11
+MR Interface,1,7.2,2.0,Sheet1!F2,Sheet1!G2
+MR Interface,2,8.1,3.0,Sheet1!F3,Sheet1!G3
+MR Interface,3,6.4,1.0,Sheet1!F4,Sheet1!G4
+MR Interface,4,6.8,1.0,Sheet1!F5,Sheet1!G5
+MR Interface,5,7.5,2.0,Sheet1!F6,Sheet1!G6
+MR Interface,6,8.2,3.0,Sheet1!F7,Sheet1!G7
+MR Interface,7,6.9,1.0,Sheet1!F8,Sheet1!G8
+MR Interface,8,7.3,2.0,Sheet1!F9,Sheet1!G9
+MR Interface,9,7.8,4.0,Sheet1!F10,Sheet1!G10
+MR Interface,10,7.0,2.0,Sheet1!F11,Sheet1!G11
+MR-Controlled Cable Robot,1,8.3,4.0,Sheet1!I2,Sheet1!J2
+MR-Controlled Cable Robot,2,8.5,5.0,Sheet1!I3,Sheet1!J3
+MR-Controlled Cable Robot,3,9.1,6.0,Sheet1!I4,Sheet1!J4
+MR-Controlled Cable Robot,4,7.8,4.0,Sheet1!I5,Sheet1!J5
+MR-Controlled Cable Robot,5,8.2,5.0,Sheet1!I6,Sheet1!J6
+MR-Controlled Cable Robot,6,9.6,7.0,Sheet1!I7,Sheet1!J7
+MR-Controlled Cable Robot,7,10.0,8.0,Sheet1!I8,Sheet1!J8
+MR-Controlled Cable Robot,8,8.9,5.0,Sheet1!I9,Sheet1!J9
+MR-Controlled Cable Robot,9,8.7,4.0,Sheet1!I10,Sheet1!J10
+MR-Controlled Cable Robot,10,10.5,9.0,Sheet1!I11,Sheet1!J11
+MR-Controlled Cable Robot with ML Agents,1,5.2,1.0,Sheet1!L2,Sheet1!M2
+MR-Controlled Cable Robot with ML Agents,2,4.8,0.0,Sheet1!L3,Sheet1!M3
+MR-Controlled Cable Robot with ML Agents,3,5.0,1.0,Sheet1!L4,Sheet1!M4
+MR-Controlled Cable Robot with ML Agents,4,4.7,0.0,Sheet1!L5,Sheet1!M5
+MR-Controlled Cable Robot with ML Agents,5,5.3,1.0,Sheet1!L6,Sheet1!M6
+MR-Controlled Cable Robot with ML Agents,6,4.6,0.0,Sheet1!L7,Sheet1!M7
+MR-Controlled Cable Robot with ML Agents,7,5.1,1.0,Sheet1!L8,Sheet1!M8
+MR-Controlled Cable Robot with ML Agents,8,5.4,1.0,Sheet1!L9,Sheet1!M9
+MR-Controlled Cable Robot with ML Agents,9,5.0,0.0,Sheet1!L10,Sheet1!M10
+MR-Controlled Cable Robot with ML Agents,10,4.9,1.0,Sheet1!L11,Sheet1!M11
