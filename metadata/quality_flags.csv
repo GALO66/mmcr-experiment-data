@@ -1,0 +1,5 @@
+file,qr_side_length_cm,trial_index,field,observed_value,separate_range_max_m,flag,action,source_cell
+data/qr_detection/recognition_trials_block_1.csv,2.5,7,detection_distance_m,0.82,0.32,exceeds_separate_range_table_maximum,retained_without_modification,Sheet1!I12
+data/qr_detection/recognition_trials_block_1.csv,12.5,8,detection_distance_m,1.55,1.53,exceeds_separate_range_table_maximum,retained_without_modification,Sheet1!J16
+data/qr_detection/recognition_trials_block_1.csv,12.5,9,detection_distance_m,1.56,1.53,exceeds_separate_range_table_maximum,retained_without_modification,Sheet1!K16
+data/qr_detection/recognition_trials_block_1.csv,12.5,10,detection_distance_m,1.55,1.53,exceeds_separate_range_table_maximum,retained_without_modification,Sheet1!L16
