@@ -1,0 +1,16 @@
+# Local files and private working material are not release content.
+private_review/
+_ExperimentData/
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+desktop.ini
+*.zip
+*.log
