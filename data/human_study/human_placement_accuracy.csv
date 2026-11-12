@@ -1,0 +1,41 @@
+condition,record_index,incorrect_placements,total_components,correct_placements,accuracy_proportion,incorrect_placements_source_cell,accuracy_formula_source_cell
+2D Drawings,1,6.0,49,43,0.877551020408,Sheet1!H58,Sheet1!H68
+2D Drawings,2,5.0,49,44,0.897959183673,Sheet1!I58,Sheet1!I68
+2D Drawings,3,8.0,49,41,0.836734693878,Sheet1!J58,Sheet1!J68
+2D Drawings,4,6.0,49,43,0.877551020408,Sheet1!K58,Sheet1!K68
+2D Drawings,5,6.0,49,43,0.877551020408,Sheet1!L58,Sheet1!L68
+2D Drawings,6,7.0,49,42,0.857142857143,Sheet1!M58,Sheet1!M68
+2D Drawings,7,5.0,49,44,0.897959183673,Sheet1!N58,Sheet1!N68
+2D Drawings,8,7.0,49,42,0.857142857143,Sheet1!O58,Sheet1!O68
+2D Drawings,9,6.0,49,43,0.877551020408,Sheet1!P58,Sheet1!P68
+2D Drawings,10,4.0,49,45,0.918367346939,Sheet1!Q58,Sheet1!Q68
+MR Interface,1,2.0,49,47,0.959183673469,Sheet1!H59,Sheet1!H69
+MR Interface,2,3.0,49,46,0.938775510204,Sheet1!I59,Sheet1!I69
+MR Interface,3,2.0,49,47,0.959183673469,Sheet1!J59,Sheet1!J69
+MR Interface,4,3.0,49,46,0.938775510204,Sheet1!K59,Sheet1!K69
+MR Interface,5,2.0,49,47,0.959183673469,Sheet1!L59,Sheet1!L69
+MR Interface,6,1.0,49,48,0.979591836735,Sheet1!M59,Sheet1!M69
+MR Interface,7,4.0,49,45,0.918367346939,Sheet1!N59,Sheet1!N69
+MR Interface,8,2.0,49,47,0.959183673469,Sheet1!O59,Sheet1!O69
+MR Interface,9,1.0,49,48,0.979591836735,Sheet1!P59,Sheet1!P69
+MR Interface,10,2.0,49,47,0.959183673469,Sheet1!Q59,Sheet1!Q69
+MR-Controlled Cable Robot,1,4.0,49,45,0.918367346939,Sheet1!H60,Sheet1!H70
+MR-Controlled Cable Robot,2,2.0,49,47,0.959183673469,Sheet1!I60,Sheet1!I70
+MR-Controlled Cable Robot,3,3.0,49,46,0.938775510204,Sheet1!J60,Sheet1!J70
+MR-Controlled Cable Robot,4,2.0,49,47,0.959183673469,Sheet1!K60,Sheet1!K70
+MR-Controlled Cable Robot,5,5.0,49,44,0.897959183673,Sheet1!L60,Sheet1!L70
+MR-Controlled Cable Robot,6,3.0,49,46,0.938775510204,Sheet1!M60,Sheet1!M70
+MR-Controlled Cable Robot,7,3.0,49,46,0.938775510204,Sheet1!N60,Sheet1!N70
+MR-Controlled Cable Robot,8,5.0,49,44,0.897959183673,Sheet1!O60,Sheet1!O70
+MR-Controlled Cable Robot,9,2.0,49,47,0.959183673469,Sheet1!P60,Sheet1!P70
+MR-Controlled Cable Robot,10,1.0,49,48,0.979591836735,Sheet1!Q60,Sheet1!Q70
+MR-Controlled Cable Robot with ML Agents,1,0.0,49,49,1.000000000000,Sheet1!H61,Sheet1!H71
+MR-Controlled Cable Robot with ML Agents,2,0.0,49,49,1.000000000000,Sheet1!I61,Sheet1!I71
+MR-Controlled Cable Robot with ML Agents,3,1.0,49,48,0.979591836735,Sheet1!J61,Sheet1!J71
+MR-Controlled Cable Robot with ML Agents,4,0.0,49,49,1.000000000000,Sheet1!K61,Sheet1!K71
+MR-Controlled Cable Robot with ML Agents,5,0.0,49,49,1.000000000000,Sheet1!L61,Sheet1!L71
+MR-Controlled Cable Robot with ML Agents,6,0.0,49,49,1.000000000000,Sheet1!M61,Sheet1!M71
+MR-Controlled Cable Robot with ML Agents,7,1.0,49,48,0.979591836735,Sheet1!N61,Sheet1!N71
+MR-Controlled Cable Robot with ML Agents,8,1.0,49,48,0.979591836735,Sheet1!O61,Sheet1!O71
+MR-Controlled Cable Robot with ML Agents,9,0.0,49,49,1.000000000000,Sheet1!P61,Sheet1!P71
+MR-Controlled Cable Robot with ML Agents,10,0.0,49,49,1.000000000000,Sheet1!Q61,Sheet1!Q71
